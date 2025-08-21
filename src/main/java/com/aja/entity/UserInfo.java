@@ -36,6 +36,7 @@ public class UserInfo {
 	private String address;
 	private String password;
 	private String image;
+	private String trainString;
 
 //	@ManyToOne
 	@Enumerated(EnumType.STRING)
